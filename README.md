@@ -17,7 +17,7 @@ Necessary `R` packages: `tidyverse`, `broom`, `gapminder`
     1. Instructions.pdf : Guidelines for this project provided by Professor Fukuyama
     2. Replication Code.R : R file that contains all data cleaning, manipulation, visualization, and statistical analyses.
     3. Write-Up.docx : Written description of the motivation, methodology, analysis, results, and implications of this project in .docx format. Includes all necessary figures. 
-    4. Write-Up.pdf : Written description of the motivation, methodology, analysis, results, and implicaitons of this project in PDF format. Includes all necessary figures. 
+    4. Write-Up.pdf : Written description of the motivation, methodology, analysis, results, and implications of this project in PDF format. Includes all necessary figures. 
 
 ## Installation and File Execution
 To begin, dowload "Replication Code.R" into a folder. Open `R` and set this folder as your working directory using `setwd()`. Running "Replication Code.R" will produce all data importation, data wrangling, data visualizations, and statistical models. The data is imported using the `gapminder` package.
